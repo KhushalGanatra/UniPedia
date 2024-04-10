@@ -55,5 +55,5 @@
   Contributions to this project are welcome. Feel free to open issues, submit pull requests, or suggest improvements.
 
 # Contact
-  For inquiries or feedback, please contact us at khushalganatra26@gmail.com.
+  For inquiries or feedback, please contact us at khushalganatra26@gmail.com .
   
