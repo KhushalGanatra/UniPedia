@@ -34,21 +34,21 @@
   ![Login Screen](ScreenShots/Login.jpg)<br>
 
   *Home Screen*<br>
-  ![Home Screen](screenshots/home.png)<br>
+  ![Home Screen](ScreenShots/Home.jpg)<br>
 
   *Student Screen*  Add , update , delete , display , select , clear<br>
-  ![Student Screen](screenshots/student.png)<br>
+  ![Student Screen](ScreenShots/Student.jpg)<br>
 
   There are similar page of teacher for add , update , delete and display.<br>
 
   *Course Screen*  Add , update , delete , display , select , clear<br>
-  ![Course Screen](screenshots/course.png)<br>
+  ![Course Screen](ScreenShots/Course.jpg)<br>
 
   there are also page for add ,update ,delete and display score of students.<br>
   also fee page available to pay and download fee.<br>
 
   *Marksheet Screen* <br>
-  ![Marksheet Screen](screenshots/marksheet.png)<br>
+  ![Marksheet Screen](ScreenShots/Marksheet.jpg)<br>
 
 
 # Contributing
